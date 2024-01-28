@@ -1,4 +1,4 @@
-# Airline Recommendation System
+<h1 align="center"> ✈️ Airline Recommendation System </h1>
 
 ## Overview
 
@@ -41,7 +41,7 @@ streamlit run app/app.py
 
 Visit the provided localhost link to interact with the Airline Recommendation System.
 
-## Streamlit App
+<h2 align="center"> 💺 Streamlit App</h2>
 
 The Streamlit app combines the outputs of both models to provide a comprehensive recommendation for airline services. A screenshot of the app is shared below.
 
