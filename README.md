@@ -14,7 +14,7 @@ The goal of this project is to enhance the user experience in choosing airlines 
 
 Finally, a Streamlit app was developed to integrate both models and predict the overall user experience with airline services.
 
-The streamlit app has been deployed on Huggingface. It can be accessed using this <a href="https://huggingface.co/spaces/prithush/AeroAdvisor">Link</a>
+The streamlit app has been deployed on Huggingface. It can be accessed using this <a href="https://huggingface.co/spaces/prithush/AeroAdvisor" target="_blank" rel="noopener noreferrer">Link</a>
 
 ## Installation
 
